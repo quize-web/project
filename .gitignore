@@ -1,6 +1,7 @@
-.idea/
-_temp/
-build/
-node_modules/
 .git/
+.idea/
+
+#node_modules/
+#build/
+#_temp/
 
